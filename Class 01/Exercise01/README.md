@@ -1,7 +1,7 @@
 
 # Exercise
 
-*   Create an interfaces called IUser, ISTudent, ITeacher
+*   Create an interfaces called IUser, IStudent, ITeacher
     *   IUser: Id, Name, Username, Password, PrintUser() - Prints Id, Name and Username
     
     *   ISTudent: Grades, override PrintUser() to show Grades
