@@ -4,7 +4,7 @@
 *   Create an interfaces called IUser, IStudent, ITeacher
     *   IUser: Id, Name, Username, Password, PrintUser() - Prints Id, Name and Username
     
-    *   ISTudent: Grades, override PrintUser() to show Grades
+    *   IStudent: Grades, override PrintUser() to show Grades
     *   ITeacher: Subject, override PrintUser() to show Subject
 * Create an abstract class User and inherits from IUser
 * Create a class Student that inherits from User and ISTudent
